@@ -25,7 +25,7 @@ function MainContent(): JSX.Element {
                 caption={"Insert caption here"}
             />
             <PlaceEntry
-                title={"Experience the 21st Century"}
+                title={"The Real 21st Century"}
                 location={{name: "Tokyo", country: "Japan"}}
                 image={"./img/tokyo.jpg"}
                 mapLink={"https://goo.gl/maps/wGuu4Qow4tYvFJ1N6"}
