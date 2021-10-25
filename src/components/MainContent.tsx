@@ -3,9 +3,7 @@ import { placetoElement } from "./PlaceEntry";
 
 function MainContent(): JSX.Element {
   return (
-    <div>
-      {placetoElement}
-    </div>
+    <div>{placetoElement}</div>
     // <>
     //   {/* <PlaceEntry
     //     title={"Two-in-One"}
